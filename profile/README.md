@@ -13,4 +13,11 @@ Get started with [Installation](https://altwalker.github.io/altwalker/installati
 
 ### Community
 
-Join our [Gitter](https://groups.google.com/g/altwalker) chat room or our [Google Group](https://groups.google.com/g/altwalker) to chat with us or with other members of the community.
+For help, discussion about best practices, sharing ideas, projects, or any other conversation that benefits from being searchable:
+
+* [Discuss AltWalker on GitHub](https://github.com/orgs/altwalker/discussions)
+* [Google Group](https://groups.google.com/g/altwalker)
+
+For casual chit-chat with us or with other members of the community: 
+
+* [Gitter Chat Room](https://groups.google.com/g/altwalker)
